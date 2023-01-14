@@ -1,4 +1,12 @@
-### Hi there 👋 My Name is Sridhar Padhy .
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sridhar Padhy .!
+2
+======================================================================================================================================
+3
+​
+4
+Data Scientist and Business analyst
+5
+-----------------------------------
 I have a sharp 👁 for detail, a thoughtful, analytical mind, and a solid grasp of business. I have always been interested in contemporary business, technology, and their interrelationships, thus I have always read interesting books that have taught me this information. I first completed a master's degree in pharmceutical science, where I excelled in the scientific, mathematical, and statistical components. I then gained few months of professional experience in the pharmaceutical industry in Client and Product Managment Team. Throughout my academic and professional careers, I developed a variety of soft skills, including group discussions, presentations, communications, time management, team management, and most importantly Teamwork. I started my coding journey since last year and learned the skills for data analytics and doing freelancing for digital marketing comapnies and completed my coursera certificate and also gaining the skills and learning to go  in to Data Science, Since then i have been relentlessly working on: - Python data analysis - SQL - Advanced Excel - Tableau - Power BI
 
 
