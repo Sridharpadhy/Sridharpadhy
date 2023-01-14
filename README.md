@@ -28,7 +28,11 @@ Instagram -->>  @_i_am_sri
  
 
 Badges
-My GitHub Stats
+My GitHub Stats :
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sridharpadhy)](https://github.com/Sridharpadhy/github-readme-stats)
 
 
 
