@@ -3,9 +3,17 @@ I have a sharp 👁 for detail, a thoughtful, analytical mind, and a solid grasp
 
 
 
+
+
 🌍  I'm based in Vapi, India.
+
+
 🖥️  See my portfolio at linked in profile
+
+
 ✉️  You can contact me at Sridharpadhy55@gmail.com
+
+
 
 
 Skills
