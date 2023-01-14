@@ -8,21 +8,16 @@ I have a sharp 👁 for detail, a thoughtful, analytical mind, and a solid grasp
 🌍  I'm based in Vapi, India.
 
 
-🖥️  See my portfolio at linked in profile
+🖥️  See my portfolio at linked in profile --- https://www.linkedin.com/in/sridhar-padhy-00838a183/
 
 
-✉️  You can contact me at --  Sridharpadhy55@gmail.com
+✉️  You can contact me at ---  Sridharpadhy55@gmail.com
 
 
 
 
 Skills
 Python , PostgreSQL , Tableau , Powerbi , Ibm Cognos , Excel , Canva , Sonyvegaspro , PremiumPro , Photoshop and  After Effects
-
-
-
-Socials :
-Instagram -->>  @_i_am_sri
  
  
  
@@ -41,7 +36,7 @@ Instagram -->>  @_i_am_sri
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Sridharpadhy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sridhar-padhy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Sridharpadhy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sridhar-padhy-00838a183/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
