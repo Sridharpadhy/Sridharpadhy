@@ -54,8 +54,8 @@ Python , PostgreSQL , Tableau , Powerbi , Ibm Cognos , Excel , Canva , Sonyvegas
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Data analyst as Freelancer.
-- 🌱 I’m currently learning ... Data Scientist
+- 🔭 I’m currently working on ... Data analyst
+- 🌱 I’m currently learning ... Data Scientist deeply
 - 👯 I’m looking to collaborate on ... Fulltime Datascientist job.
 - 🤔 I’m looking for help with ... Career Path.
 - 💬 Ask me about ... Anything
