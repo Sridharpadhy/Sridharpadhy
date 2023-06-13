@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ​
 Data Scientist and Business analyst
 -----------------------------------
-A responsible and Analytically inclined Data Enthusiast with the 1 year of valuable experience. Holds a Master's Degree in pharmaceutics and professional certifications in IBM Data Analyst, Full Stack Data Scientist, and Management Consulting. Recognized in the top 5% of data analysts, skilled in report comprehension, statistical analysis, presenting insights, critical thinking, and problem-solving.
+A responsible and Analytically inclined Data Enthusiast with the 1 + year of valuable experience. Holds a Master's Degree in pharmaceutics and professional certifications in IBM Data Analyst, Full Stack Data Scientist, and Management Consulting. Recognized in the top 5% of data analysts, skilled in report comprehension, statistical analysis, presenting insights, critical thinking, and problem-solving.
 
 
 
